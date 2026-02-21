@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/329559/m/endnote-screenshot.png?v=1658341361" alt="EndNote screenshot"/>
+  <img src="https://support.clarivate.com/Endnote/servlet/rtaImage?eid=ka14N000000MuWW&feoid=00N4100000e9NrK&refid=0EM4N000004rSEc" alt="EndNote screenshot"/>
 </p>
 
 ---
